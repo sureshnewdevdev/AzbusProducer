@@ -1,0 +1,6 @@
+@AzbusProducer_HostAddress = http://localhost:5001
+
+GET {{AzbusProducer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
